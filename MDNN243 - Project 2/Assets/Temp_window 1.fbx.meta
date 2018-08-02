@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 434b893cffef3494fb6927b4a944575a
+timeCreated: 1533198580
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: blind
+    100002: blind1
+    100004: blind10
+    100006: blind11
+    100008: blind2
+    100010: blind3
+    100012: blind4
+    100014: blind5
+    100016: blind6
+    100018: blind7
+    100020: blind8
+    100022: blind9
+    100024: blind_support
+    100026: cord
+    100028: cord1
+    100030: cord2
+    100032: cord3
+    100034: cord4
+    100036: cord5
+    100038: frame
+    100040: frame1
+    100042: frame2
+    100044: frame3
+    100046: frame4
+    100048: //RootNode
+    400000: blind
+    400002: blind1
+    400004: blind10
+    400006: blind11
+    400008: blind2
+    400010: blind3
+    400012: blind4
+    400014: blind5
+    400016: blind6
+    400018: blind7
+    400020: blind8
+    400022: blind9
+    400024: blind_support
+    400026: cord
+    400028: cord1
+    400030: cord2
+    400032: cord3
+    400034: cord4
+    400036: cord5
+    400038: frame
+    400040: frame1
+    400042: frame2
+    400044: frame3
+    400046: frame4
+    400048: //RootNode
+    2300000: blind
+    2300002: blind1
+    2300004: blind10
+    2300006: blind11
+    2300008: blind2
+    2300010: blind3
+    2300012: blind4
+    2300014: blind5
+    2300016: blind6
+    2300018: blind7
+    2300020: blind8
+    2300022: blind9
+    2300024: blind_support
+    2300026: cord
+    2300028: cord1
+    2300030: cord2
+    2300032: cord3
+    2300034: cord4
+    2300036: cord5
+    2300038: frame
+    2300040: frame1
+    2300042: frame2
+    2300044: frame3
+    2300046: frame4
+    3300000: blind
+    3300002: blind1
+    3300004: blind10
+    3300006: blind11
+    3300008: blind2
+    3300010: blind3
+    3300012: blind4
+    3300014: blind5
+    3300016: blind6
+    3300018: blind7
+    3300020: blind8
+    3300022: blind9
+    3300024: blind_support
+    3300026: cord
+    3300028: cord1
+    3300030: cord2
+    3300032: cord3
+    3300034: cord4
+    3300036: cord5
+    3300038: frame
+    3300040: frame1
+    3300042: frame2
+    3300044: frame3
+    3300046: frame4
+    4300000: frame4
+    4300002: frame3
+    4300004: frame2
+    4300006: frame1
+    4300008: frame
+    4300010: blind_support
+    4300012: blind
+    4300014: cord
+    4300016: cord1
+    4300018: cord2
+    4300020: cord3
+    4300022: cord4
+    4300024: cord5
+    4300026: blind1
+    4300028: blind2
+    4300030: blind3
+    4300032: blind4
+    4300034: blind5
+    4300036: blind6
+    4300038: blind7
+    4300040: blind8
+    4300042: blind9
+    4300044: blind10
+    4300046: blind11
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
