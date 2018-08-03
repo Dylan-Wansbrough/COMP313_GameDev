@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: a7538b7559e615842b664b5d5ffec217
+timeCreated: 1533287808
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: clip
+    100004: clip1
+    100006: clip2
+    100008: clip3
+    100010: clip4
+    100012: clip5
+    100014: clipbroken
+    100016: clipbroken1
+    100018: clipbroken2
+    100020: clipbroken3
+    100022: pCube2
+    100024: pCube4
+    100026: pCube5
+    100028: pCube6
+    100030: pCube7
+    100032: transform1
+    100034: transform2
+    100036: transform3
+    100038: transform4
+    100040: wire1
+    100042: wire2
+    100044: wire3
+    100046: wire4
+    100048: wire5
+    400000: //RootNode
+    400002: clip
+    400004: clip1
+    400006: clip2
+    400008: clip3
+    400010: clip4
+    400012: clip5
+    400014: clipbroken
+    400016: clipbroken1
+    400018: clipbroken2
+    400020: clipbroken3
+    400022: pCube2
+    400024: pCube4
+    400026: pCube5
+    400028: pCube6
+    400030: pCube7
+    400032: transform1
+    400034: transform2
+    400036: transform3
+    400038: transform4
+    400040: wire1
+    400042: wire2
+    400044: wire3
+    400046: wire4
+    400048: wire5
+    2300000: clip
+    2300002: clip1
+    2300004: clip2
+    2300006: clip3
+    2300008: clip4
+    2300010: clip5
+    2300012: clipbroken
+    2300014: clipbroken1
+    2300016: clipbroken2
+    2300018: clipbroken3
+    2300020: pCube7
+    2300022: wire1
+    2300024: wire2
+    2300026: wire3
+    2300028: wire4
+    2300030: wire5
+    3300000: clip
+    3300002: clip1
+    3300004: clip2
+    3300006: clip3
+    3300008: clip4
+    3300010: clip5
+    3300012: clipbroken
+    3300014: clipbroken1
+    3300016: clipbroken2
+    3300018: clipbroken3
+    3300020: pCube7
+    3300022: wire1
+    3300024: wire2
+    3300026: wire3
+    3300028: wire4
+    3300030: wire5
+    4300000: wire1
+    4300002: wire2
+    4300004: wire3
+    4300006: wire4
+    4300008: wire5
+    4300010: clip
+    4300012: clip1
+    4300014: clip2
+    4300016: clip3
+    4300018: clipbroken
+    4300020: clip4
+    4300022: clip5
+    4300024: clipbroken1
+    4300026: clipbroken2
+    4300028: clipbroken3
+    4300030: pCube7
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
